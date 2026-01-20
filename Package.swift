@@ -14,7 +14,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/SFSafeSymbols/SFSafeSymbols.git", .upToNextMajor(from: "7.0.0"))
+        .package(url: "https://github.com/castor-browser/SFSafeSymbols.git", .upToNextMajor(from: "7.0.0"))
     ],
     targets: [
         .target(name: "SFSymbolsPicker", dependencies: ["SFSafeSymbols"])
