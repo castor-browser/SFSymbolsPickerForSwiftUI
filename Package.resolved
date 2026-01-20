@@ -3,10 +3,10 @@
     {
       "identity" : "sfsafesymbols",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/SFSafeSymbols/SFSafeSymbols.git",
+      "location" : "https://github.com/castor-browser/SFSafeSymbols.git",
       "state" : {
-        "revision" : "e01b3d4f861412f8dcee8d93c417d2c2b0cdfd77",
-        "version" : "7.0.0"
+        "revision" : "40b515cfc63ac7a62ed8ea6fe1a2ad318e83ac34",
+        "version" : "7.0.1"
       }
     }
   ],
